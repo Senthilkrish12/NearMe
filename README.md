@@ -36,6 +36,39 @@ home.html
     <area target="" alt="Bus Stand" title="Bus Stand" href="busstand.html" coords="1357,14,1276,101,1405,156,1549,139,1573,70,1489,20" shape="poly">
 </map>
 ```
+jwellery.html
+```
+<html>
+    <head><h1>Jwellery</h1></head> 
+    <title>resticted</title>
+    <body text="black" bgcolor="gray">
+        <i>No Entery Without Money</1>
+        <img src="grt-jewellers-avadi-chennai-jewellery-showrooms-q4pj6o8ura-250.avif" align="center" height="400" width="700"> 
+    </body> 
+</html>  
+```
+busstand.html
+```
+<html>
+    <head><h1>Bus Stand</h1></head> 
+    <title>resticted</title>
+    <body text="blue" bgcolor="skyblue">
+        <i>Resticted Area</1>
+        <img src="newindianexpress_2025-02-24_qpubb0ss_Better-rural.avif" align="center" height="400" width="700"> 
+    </body> 
+</html> 
+```
+theater.html
+```
+<html>
+    <head><h1>Movie Time</h1></head> 
+    <title>resticted</title>
+    <body text="black" bgcolor="deepcharcol">
+        <i>Resticted Area</1>
+        <img src="gokulam-cinemas-5128834.webp" align="center" height="400" width="700"> 
+    </body> 
+</html> 
+```
 
 ## OUTPUT
 ![alt text](<Screenshot 2025-04-16 105959.png>)
